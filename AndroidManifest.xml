@@ -3,7 +3,7 @@
           package="com.google.firebase.firebase_ads"
           android:versionCode="901"
           android:versionName="9.0.1">
-    <uses-sdk android:minSdkVersion="10"/>
+    <uses-sdk android:minSdkVersion="9"/>
     <application />
 </manifest>
 
