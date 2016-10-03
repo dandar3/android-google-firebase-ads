@@ -4,9 +4,9 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-ads/9.6.0/firebase-ads-9.6.0.aar`
 
 **Requires:**
-- `Android 2.3.1 (API 9) SDK Platform`
-- [dandar3/android-google-play-services-ads](https://github.com/dandar3/android-google-play-services-ads)
-- [dandar3/android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics)
+- `Android 7.0 (API 24) SDK Platform`
+- [dandar3/android-google-play-services-ads](https://github.com/dandar3/android-google-play-services-ads/tree/9.6.0)
+- [dandar3/android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/9.6.0)
 
 **References:**
 - https://developers.google.com/android/guides/releases#september_2016_-_v96
@@ -14,4 +14,7 @@ Eclipse library project based on:<br/>
 - https://firebase.google.com/docs/admob/release-notes#android
 
 **SVN checkout:**
-- https://github.com/dandar3/android-google-firebase-ads/tags/9.6.0
+- _File > Import... > Team > Team Project Set > URL:_<br/>
+  https://raw.githubusercontent.com/dandar3/android-google-firebase-ads/9.6.0/.projectset
+- _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
+  https://github.com/dandar3/android-google-firebase-ads/tags/9.6.0
