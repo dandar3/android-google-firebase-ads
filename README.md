@@ -10,7 +10,8 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://firebase.google.com/docs/admob/release-notes#android
-GOOGLE_FIREBASE_RELEASE_REFERENCES
+- https://firebase.google.com/support/release-notes/android#9.8
+- https://developers.google.com/android/guides/releases#october_2016_-_v98
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
